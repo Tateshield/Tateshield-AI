@@ -1,2 +1,4 @@
 # Tateshield-AI
+**Please note:** This is just the beggining- we havent started full development yet, but will focus more on expanding the repository in the coming weeks. 
+
 AI-powered content filtering tool designed to enforce digital discipline. This repository houses the core components of an advanced, real-time content moderation system that uses machine learning and AI algorithms to filter and manage digital content, ensuring accountability and enhanced user experience across multiple platforms.
