@@ -98,7 +98,7 @@ We are in the early development phase. To get early access or updates, you can f
 Yes! We encourage developers to contribute to TateShield AI. You can start by reviewing open issues or submitting pull requests with enhancements or bug fixes.
 
 ### 4. **When will the product be available for public use?**
-We are currently refining the product and expect to release a beta version in the coming months. Please stay tuned for more updates.
+We are currently refining the product and awaiting possible collaboration and investment opportunity from: https://www.fundraiser.com/hackathon#prizes
 
 ---
 
